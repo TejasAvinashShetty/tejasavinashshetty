@@ -20,12 +20,18 @@
 ![Numpy](https://img.shields.io/badge/-Numpy-000?&logo=Numpy)
 ![Scipy](https://img.shields.io/badge/-Scipy-000?&logo=Scipy)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=Matplotlib)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![QuTiP](https://img.shields.io/badge/-QuTiP-000?&logo=QuTiP&logoColor=F90)
+![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
-I have dabbled with ![Matlab](https://img.shields.io/badge/-Matlab-000?&logo=Matlab&logoColor=F90).
+I have dabbled with ![MATLAB](https://img.shields.io/badge/-MATLAB-000?&logo=MATLAB&logoColor=F90).
 
-<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=tejasavinashshetty&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasavinashshetty&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+[![Tejas's GitHub stats](https://github-readme-stats.vercel.app/api?username=tejasavinashshetty&show_icons=true
+)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejasavinashshetty)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **TejasAvinashShetty/tejasavinashshetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
@@ -35,5 +41,6 @@ I have dabbled with ![Matlab](https://img.shields.io/badge/-Matlab-000?&logo=Mat
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 Here are some ideas to get you started:
 
-
--->
+<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=tejasavinashshetty&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasavinashshetty&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-000?&logo=Jupyter Notebook) 
+--!>
